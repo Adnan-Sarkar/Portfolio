@@ -3,7 +3,7 @@
 ## 🖥 Preview
 `note:` please make sure the preview screen is `1920 x 1080`, It's not responsive.
 
-[Live Preview]()
+[Live Preview](https://adnansarkar.netlify.app/)
 
 ![]()
 
